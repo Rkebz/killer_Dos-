@@ -1,0 +1,3 @@
+username=user&password=pass
+username=admin&password=admin123
+email=test@example.com&password=test123
